@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.AVPlayerVC.Subs", "Xamarin.AVPlayerVC.Subs\Xamarin.AVPlayerVC.Subs.csproj", "{AA54F4E7-DAFB-409D-98F0-B4CE5A24855C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA54F4E7-DAFB-409D-98F0-B4CE5A24855C}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AA54F4E7-DAFB-409D-98F0-B4CE5A24855C}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AA54F4E7-DAFB-409D-98F0-B4CE5A24855C}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AA54F4E7-DAFB-409D-98F0-B4CE5A24855C}.Release|iPhone.Build.0 = Release|iPhone
+		{AA54F4E7-DAFB-409D-98F0-B4CE5A24855C}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AA54F4E7-DAFB-409D-98F0-B4CE5A24855C}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{AA54F4E7-DAFB-409D-98F0-B4CE5A24855C}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AA54F4E7-DAFB-409D-98F0-B4CE5A24855C}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
